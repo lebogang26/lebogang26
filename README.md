@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lebogang 
-- 👀 I’m interested in learning new and music.
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on any MEAR/MEAN Stack project.
+- 👀 I’m interested in learning new things especially in tech and music.
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to collaborate on any MERN/MEAN Stack project.
 - 📫 How to reach me ... lebogangsekaleli@gmail.com or WhatsApp: 0782971833
 
 <!---
